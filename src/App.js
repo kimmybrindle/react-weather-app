@@ -7,7 +7,14 @@ function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by Kimmy Brindle and is{" "}
-        <a href="#">open-sourced on Github</a>.
+        <a
+          href="https://github.com/kimmybrindle/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-sourced on Github
+        </a>
+        .
       </footer>
     </div>
   );
