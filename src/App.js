@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
 
-        <Weather />
+        <Weather defaultCity="Byron Bay" />
         <footer>
           This project was coded by Kimmy Brindle and is{" "}
           <a
